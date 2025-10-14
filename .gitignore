@@ -89,6 +89,7 @@ htmlcov/
 nosetests.xml
 coverage.xml
 *.cover
+*.tar
 *.py,cover
 .hypothesis/
 .pytest_cache/
